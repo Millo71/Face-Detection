@@ -1,0 +1,4 @@
+
+#Per chiudere la finestra premere 'e'
+
+#To close the window press 'e'
